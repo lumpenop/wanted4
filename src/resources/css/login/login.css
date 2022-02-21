@@ -1,0 +1,129 @@
+.div_login_main {
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 50%;
+  text-align: center;
+}
+
+.div_login_input_raw {
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+.login_input_default {
+  margin: 0;
+  width: 100%;
+  margin-bottom: 5%;
+  font-size: 1rem;
+  padding: 10px 20px;
+  border: 1px solid #d3d3d3;
+  border-radius: 6px;
+}
+
+.div_auto_login_check {
+  text-align: left;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-bottom: 8%;
+}
+
+.div_auto_login_check_inner {
+  display: inline;
+}
+
+.div_auto_login_check_inner {
+  width: 85%;
+}
+
+.img_auto_login {
+  vertical-align: text-bottom;
+}
+
+.span_auto_login {
+  font-size: 0.8rem;
+  margin-left: 2%;
+  font-weight: 500;
+  color: #222222;
+}
+
+.button_login {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.button_login img {
+  width: 100%;
+}
+
+.div_login_button_raw {
+  margin-bottom: 5%;
+}
+
+.div_find_id_pass_raw {
+  text-align: center;
+  margin-bottom: 35%;
+}
+
+.div_find_id_pass_raw button {
+  border: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  color: #666666;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.vertical {
+  display: inline;
+  width: 1px;
+  margin: 0;
+  border-left: 1px solid #666666;
+}
+
+.button_find_id {
+  margin: 0;
+  margin-right: 5%;
+}
+
+.button_find_pass {
+  margin: 0;
+  margin-left: 5%;
+}
+
+.div_sns_login_raw {
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.div_sns_login_image_raw img {
+  margin-right: 7%;
+}
+
+.div_sns_login_image_raw img:last-child {
+  margin-right: 0;
+}
+
+.div_sns_login_raw p {
+  margin-bottom: 4%;
+  font-size: 15px;
+}
+
+.button_sign_up {
+  width: 100%;
+  background-color: #f7f7f7;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-weight: bold;
+  height: 50px;
+  border: 1px solid #d3d3d3;
+  border-radius: 6px;
+  margin-bottom: 5%;
+}
+
+.bottom_text {
+  color: #999999;
+  font-size: 0.9rem;
+}
